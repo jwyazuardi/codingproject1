@@ -1,0 +1,15 @@
+# Site Settings
+title: The CCSS Othello Amazing Club
+email: jwyazuardicoding@gmail.com
+description: >
+  The CCSS Othello Amazing Club,where players can challenge with their brains.
+baseurl: ""
+url: "http://127.0.0.1:4000/"
+twitter_username: jwyazuardicoding
+github_username:  jwyazuardicoding
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
